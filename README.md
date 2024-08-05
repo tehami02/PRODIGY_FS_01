@@ -1,1 +1,1 @@
-# deploy-mern-app-1
+Secure User Authentication Fullstack app
